@@ -25,7 +25,8 @@ THEN the saved events persist
 https://github.com/btay786/time-tracker-bandits
 
 ##### live url
-
-
+ https://btay786.github.io/time-tracker-bandits/
 
 ###### screenshot
+[screenshot of live website]
+(./images/Liveshotoflistorientedscreen.png)
